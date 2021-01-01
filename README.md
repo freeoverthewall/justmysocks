@@ -1,4 +1,4 @@
-# Just My Socks
+# 搬瓦工机场 Just My Socks
 Just My Socks 官网：[Just My Socks](http://affpass.xyz/github/jms/all)
 
 Just My Socks 是搬瓦工机场，提供稳定靠谱的 Shadowsocks 和 V2Ray 服务。
